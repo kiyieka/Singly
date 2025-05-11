@@ -71,7 +71,7 @@ class LinkedList:
         print("None")
 
 
-# Example usage
+# Example
 
 if __name__ == "_main_":
     ll = LinkedList()
