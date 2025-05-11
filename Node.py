@@ -81,10 +81,10 @@ if __name__ == "_main_":
     ll.insert_at_index(1, 15)
 
     print("Linked List:")
-    ll.display()  # Output: 5 -> 15 -> 10 -> 20 -> None
+    ll.display()  
 
-    print("Index of 10:", ll.search(10))  # Output: 2
+    print("Index of 10:", ll.search(10))  
 
     ll.delete_at_index(1)
     print("After deleting at index 1:")
-    ll.display()  # Output: 5 -> 10 -> 20 -> None
+    ll.display()  
